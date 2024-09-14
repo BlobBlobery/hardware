@@ -11,5 +11,3 @@ Christian:
 <a href="https://www.paypal.com/paypalme/christianmueller659">
   <img src="https://github.com/DarkDonnerGunther/Pictures/blob/main/PayPal_me_a_salad_small.png" alt="Donate with PayPal button" />
 </a>
-
-Lars:
